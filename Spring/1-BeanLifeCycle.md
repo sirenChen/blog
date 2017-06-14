@@ -1,3 +1,5 @@
+## （一）Bean的生命周期  
+
 # BeanFactory和ApplicationContext
 BeanFactory是Spring的基础，面向Spring本身。ApplicationContext是面向使用Spring的开发者。几乎所有的场合，都可以直接使用ApplicationContext。  
 首先要明确的是，无论是BeanFactory还是ApplicationContext，这两个都是接口，Spring提供了多种实现。

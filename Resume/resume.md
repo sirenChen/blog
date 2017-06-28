@@ -56,8 +56,7 @@
 
 > #### Spring Version:
 > -	Framework:
->   - Used Spring to decouple each layer
->   - Used Spring MVC at web layer
+>   - Spring, Spring MVC
 > -	Persistence:
 >   - Used Spring JdbcTemplate to access database
 >   - Used Spring to handle transaction management

@@ -5,8 +5,8 @@
 
 # Education
 - University of Regina
-- Electronic System Engineering, Bachelor of Applied Science
-- Computer Science, Certificate Program
+  > - Electronic System Engineering, Bachelor of Applied Science
+  > - Computer Science, Certificate Program
 
 # Skills
 - Core Java

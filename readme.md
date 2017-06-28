@@ -4,4 +4,4 @@
 [（三）aop的基础，动态代理](./Spring/3-AopProxy.md)  
 [（四）SpringAOP源码分析](./Spring/4-SpringAOP.md)
 # 简历
-[Siren Chen Resume](./resume/resume.md)
+[Siren Chen Resume](./Resume/resume.md)
